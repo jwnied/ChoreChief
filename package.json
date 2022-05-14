@@ -1,0 +1,22 @@
+{
+  "name": "chorechief",
+  "version": "1.0.0",
+  "description": "Discord bot that assigns chores to members of the household.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwnied/ChoreChief.git"
+  },
+  "author": "anoures",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwnied/ChoreChief/issues"
+  },
+  "homepage": "https://github.com/jwnied/ChoreChief#readme",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
+}
